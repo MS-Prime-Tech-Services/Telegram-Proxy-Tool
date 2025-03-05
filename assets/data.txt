@@ -6,3 +6,15 @@ https://t.me/proxy?server=47.76.98.179&port=443&secret=eee4946008c573f81f7cfe1d1
 https://t.me/proxy?server=47.76.71.32&port=443&secret=ee9b1168aa895c6d53cd4114aff1dc68b7617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
 https://t.me/proxy?server=47.76.131.29&port=443&secret=ee434074d1e8fff434500b7cde3d5a5679617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
 https://t.me/proxy?server=54.36.112.228&port=155&secret=eee72cf91a4fee7902896720b31c3c14e27777772e736974652e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=apple.slumbo.com&port=9120&secret=eeeb9baf94c9cafa2f4c377b239e79e9e57777772e7673737765622e6e6574&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=8.218.184.215&port=443&secret=ee5bebc4263717b31a9545310d249bc9de617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.83.177.52&port=443&secret=ee18b0198ecffc69ddc47b51683f7a9858617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.76.71.62&port=443&secret=ee8ef5ab169b0c4b5e9efdb79b50180ea4617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.76.35.39&port=443&secret=eeda57bdbdec095298ac21180b845e691b617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.76.129.207&port=443&secret=eede779abf06006ff9efab72f122c26571617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.76.124.89&port=443&secret=ee4311533789d6b8041c5a6b8e55b939c4617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.76.124.193&port=443&secret=eeb4466f461684caf4a2c870e0e2a23be6617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.76.123.75&port=443&secret=eee99f5e001c618d4bac0b0a05d3ffb305617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.76.121.220&port=443&secret=ee65892b1a0e36c8a53b3d643877fed1b5617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.76.117.176&port=443&secret=ee30fd4c939788f5d07ec240d56fece96a617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.76.106.92&port=443&secret=ee9afeb09af8b1463e788eee35e0f7808d617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot

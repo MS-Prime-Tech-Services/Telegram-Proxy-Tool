@@ -13,3 +13,20 @@ document.addEventListener('DOMContentLoaded', function() {
         localStorage.setItem('theme', theme);
     });
 });
+    // Disable right-click
+    document.addEventListener('contextmenu', function(e) {
+        e.preventDefault();
+    });
+
+    // Disable keyboard shortcuts
+    document.addEventListener('keydown', function(e) {
+        if (e.ctrlKey && (e.key === 'u' || e.key === 's' || e.key === 'a' || e.key === 'c' || e.key === 'x' || e.key === 'i' || e.key === 'j' || e.key === 'k' || e.key === 'l')) {
+            e.preventDefault();
+        }
+    });
+
+    // Disable text selection
+    document.addEventListener('selectstart', function(e) {
+        e.preventDefault();
+    });
+});

@@ -1,3 +1,15 @@
+//9march2025
+https://t.me/proxy?server=47.83.114.104&port=443&secret=ee6e072df126d251c45db2795787653a42617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.243.191.67&port=443&secret=ee55279927d76e759124b5ba969aa44b93617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.83.120.254&port=443&secret=ee35782d8daa6481eaafd0c3b78441e3f2617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.242.130.87&port=443&secret=ee7ea2df83d447e8f95002949498ad6e28617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.242.223.207&port=443&secret=ee3dd4cd438e9a7b8511c1a9d9ca73b0b9617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.243.120.179&port=443&secret=ee2687d297d18e886e7d96e09dabb1b5b1617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.76.155.153&port=443&secret=eeee0b7c0a3d9e5b430381a9bb8c5f53a1617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=45.67.229.238&port=7878&secret=eedb09c6abaa7131a8a53260ab4845aade6f79756e7369746573692e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.242.135.39&port=443&secret=ee802b1f4e8d93350c4e364dbc8ff57207617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.83.127.64&port=443&secret=ee57d8bed63d888539a658ba6df296e12d617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=49.12.200.184&port=7080&secret=eee6607b90889cc60719d2170cb285196264656269616e2e6f7267&bot=@mtpro_xyz_bot
 //8march2025
 https://t.me/proxy?server=47.83.127.213&port=443&secret=ee69eb373c54c5528134bd050ebf1a23b6617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
 https://t.me/proxy?server=47.243.188.172&port=443&secret=ee9d2d215d9ee2ff9bacffd34440969333617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot

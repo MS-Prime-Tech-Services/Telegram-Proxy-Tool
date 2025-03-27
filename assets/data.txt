@@ -1,6 +1,6 @@
 //19march2025
 https://t.me/proxy?server=47.243.73.179&port=443&secret=ee535517ba1cbb54251e88f27d1b357ca1617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
-
+https://t.me/proxy?server=47.242.119.195&port=443&secret=eed12666050da234025968f34fc24bad19617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
 
 
 //13march2025

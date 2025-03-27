@@ -1,5 +1,8 @@
 //27march2026
 https://t.me/proxy?server=89.34.230.106&port=443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.239.16.195&port=443&secret=ee97b3b4d458d9a6310844f173aa596402617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.76.37.18&port=443&secret=ee5830573fb6252c56ac493175925642b5617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.76.116.24&port=443&secret=ee61fe3544d8cf2e5d48f4f569ebb9e3b0617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
 //26march2025
 https://t.me/proxy?server=divar.shadischool.com&port=2113&secret=ee66c9ebc2d8483f523a81ca072d57df287777772e6769746875622e636f6d&bot=@mtpro_xyz_bot
 //25march2025

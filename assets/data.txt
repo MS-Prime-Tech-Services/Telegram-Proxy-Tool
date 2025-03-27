@@ -1,4 +1,8 @@
-//27march2026
+//28march2025
+https://t.me/proxy?server=47.238.231.211&port=443&secret=ee70f60105788a25a0dbe2e46c5c9bf457617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.243.138.6&port=443&secret=ee34f6e9d8e696ff6d9a42986c3996f74773332e616d617a6f6e6177732e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=accelerate1.getmalus.app&port=443&secret=eea483d2bd2ff31af005536c66635fe7d6672e616c6963646e2e636f6d&bot=@mtpro_xyz_bot
+//27march2025
 https://t.me/proxy?server=89.34.230.106&port=443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f&bot=@mtpro_xyz_bot
 https://t.me/proxy?server=47.239.16.195&port=443&secret=ee97b3b4d458d9a6310844f173aa596402617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
 https://t.me/proxy?server=47.76.37.18&port=443&secret=ee5830573fb6252c56ac493175925642b5617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot

@@ -3,6 +3,8 @@ https://t.me/proxy?server=45.136.5.187&port=11111&secret=eee4eff605d53e965d8dbb5
 https://t.me/proxy?server=47.239.24.99&port=443&secret=ee4c60319876810f9f1f9ca73aaac1998b617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
 https://t.me/proxy?server=47.76.143.236&port=443&secret=ee9da60e15095afe826eb3f564bf3cbd59617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
 https://t.me/proxy?server=47.76.86.193&port=443&secret=eeaf226af5e0bc3f145e813a90e25ed16a617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=47.239.4.152&port=443&secret=ee170696e12c8d6632296ee3d8eb374a47617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
+https://t.me/proxy?server=8.218.152.92&port=443&secret=eef418c88172144d06786fa73dcdb6bc66617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
 //28march2025
 https://t.me/proxy?server=47.238.231.211&port=443&secret=ee70f60105788a25a0dbe2e46c5c9bf457617a7572652e6d6963726f736f66742e636f6d&bot=@mtpro_xyz_bot
 https://t.me/proxy?server=47.243.138.6&port=443&secret=ee34f6e9d8e696ff6d9a42986c3996f74773332e616d617a6f6e6177732e636f6d&bot=@mtpro_xyz_bot
